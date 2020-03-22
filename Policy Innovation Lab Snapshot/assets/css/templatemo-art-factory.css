@@ -341,7 +341,7 @@ header
 .header-area .main-nav .logo {
   line-height: 80px;
   color: #fff;
-  font-size: 28px;
+  font-size: 25px;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -626,7 +626,7 @@ header
     padding: 0px;
   }
   .header-area .logo {
-    margin-left: 30px;
+    margin-left: 10px;
   }
   .header-area .menu-trigger {
     display: block !important;
@@ -721,7 +721,7 @@ welcome
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url(../images/banner-bg.png);
+  background-image: url(../images/banner-bg2.png);
   background-repeat: no-repeat;
 /*
 TRY IT ... with or without CENTER CENTER

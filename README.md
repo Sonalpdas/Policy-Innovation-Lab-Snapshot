@@ -31,10 +31,10 @@ A breakdown of the prevalence of mental disorders among adolescents in Mexico, a
 
 
 ## Faculty
-**Chris Goranson**
-**Karen Lightman**
+-Chris Goranson
+-Karen Lightman
 
-#Web content source
+## Web content source
 
 ### Image Source
 

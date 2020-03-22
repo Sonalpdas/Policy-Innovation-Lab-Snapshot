@@ -42,5 +42,8 @@ A breakdown of the prevalence of mental disorders among adolescents in Mexico, a
 2. Banner created from Adobe XD
 3. Human illustrations library<a href="https://www.humaaans.com/" target="_blank"> humaaans.coo</a>
 
+###Web template
+- Course website template reference: https://templatemo.com/about (no licensing charges)
+
 
 
